@@ -137,6 +137,7 @@ I wanted it to be nearly as feature-rich as popular blogging templates like [bea
 
 - Next.js with Typescript
 - [Contentlayer](https://www.contentlayer.dev/) to manage content logic
+- **Documentation System**: Automatic docs generation from Markdown files with multi-level directory support
 - Easy styling customization with [Tailwind 3.0](https://tailwindcss.com/blog/tailwindcss-v3) and primary color attribute
 - [MDX - write JSX in markdown documents!](https://mdxjs.com/)
 - Near perfect lighthouse score - [Lighthouse report](https://www.webpagetest.org/result/230805_BiDcBQ_4H7)
